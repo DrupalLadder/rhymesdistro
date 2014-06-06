@@ -30,6 +30,7 @@ core = 7.x
 defaults[projects][subdir] = contrib
 
 projects[ctools][version] = 1.3
+projects[ctools][contrib_destination] = "sites/all/modules/rhymesdistro"
 
 projects[features][version] = 2.0
 
