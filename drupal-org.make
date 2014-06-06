@@ -27,10 +27,10 @@ core = 7.x
 ; see in _rhymessite to make their own distros easy to maintain, update, and
 ; contribute to.
 ;
-defaults[projects][subdir] = contrib
+defaults[projects][subdir] = rhymesdistro
+defaults[projects][contrib_destination] = sites/all
 
 projects[ctools][version] = 1.3
-projects[ctools][contrib_destination] = "sites/all/modules/rhymesdistro"
 
 projects[features][version] = 2.0
 
