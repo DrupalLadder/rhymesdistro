@@ -9,4 +9,4 @@ projects[drupal][version] = 7.25
 projects[rhymesdistro][type] = profile
 projects[rhymesdistro][download][type] = git
 projects[rhymesdistro][download][url] =  https://github.com/DrupalLadder/rhymesdistro.git
-projects[rhymesdistro][branch] = drush-ops-582-contrib-destination
+projects[rhymesdistro][download][branch] = drush-ops-582-contrib-destination
